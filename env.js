@@ -1,12 +1,12 @@
 export const dialogflowConfig = {
     type: 'service_account',
-    project_id: 'radi-vvxdfr',
-    private_key_id: 'ff1bc85fc44083f72ddee02f13010c3690dcbb6a',
-    private_key: '-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXdbNrd9EgUQ1c\nfvMDZ3CP5W+pZKvyTdjj3aR/s7saVp1UbJS/GHGalbEi77zIupun7hoEXOXQRq6p\nfgufJ5M3jy+QESGmmK/COAWV9yxfi9/O4WXDD3UbxGF6aStnusdto0jGGlxyiTgV\nf4D+NuMsc6ZfepPH5A6MjbTX+xx8ZzX63LaauQqK4BnKyaEq79g6L5vEqHRP/Zel\nCgwogIeN8y2KU1RAC1B4P+2QtF7mHgkXitTD4Mmie2TTkrvFkYpdxltrRlA4d/bH\nDuv56voOSbyFDjQcxtDRH0+oAu5hgB+RM5pHYob6FRXANM9JF75ecLYygo5c1x1i\npA3H7BSrAgMBAAECggEAE2+yt8cfPmMRaX6qPWxfYxu3bvh96mXLYwLjjAGSp1WY\n67y/zl1OIjvOtvAZf6IV2JhKEIqw0JEPwIp2Ue0oAqMQD1b8SiML9+FF37lkb1oW\n3nrGy0nhrpeQk5JZMApRYzqPng9St6JZRNczs7sP0zq7j3FnU2jnRxahcbpdX3tl\njDHYO7oI6wm1KaN0M0DBvNMGxtxHA0AwfyI98CnocS0+9yX43dlKjBQcTKUvfGWT\n1BTVkcFrT9kjSIlE/jfFZoMULD5Nttm9PECSv/xyBdze/ug2nqvrIZ4lEEYjQWqi\nEaFI8wKllAE7pRD+R9KUNM56pbhN2crG1Gxi66GwAQKBgQD9d/PbReLAULMkMo8Q\nPVb0AwUmarpxdw5q55McTWR7z2vreS5iFeYWl7CL26SBcyqNHME+FR6flXrOBgfL\nTLNv/an6R1QBHxBCleoIgHj8wGUSSaqf0yD2qwyf+0jGYYtY4o9qips4pDQANfYO\nfAOqcG0ASMIPxWMUOQOOxuOtqwKBgQDZnJIPvr3W/4SX6v665nRNSKBt/rDJtaJ0\neiRFUOWh9FKY051/Vgvrs5WZyysNiDWjvtRBhp5DoWvXgoUoRFpPGs6qnAuDL0C6\ng69/ViVYT6xV48fMzSzgJPp+jWlJ97vQMnrZ/LWdB6QhZEkAKNdH6yB8kqyYIq8+\n5DRxfjw1AQKBgCG4prHCb3NkiSDEtTHU50+ZY0MEKf/Udg+U9YZraXXrV5FBUwFr\npmvVDIDe3Nj4CG4zqCXpS2Sxz1+/f6P1dV3t4oJQoQVxK4mgRj2RUgdWVVwEfvW6\ncgU/JnPWS41RBufxZGEpRZNYjS6F/1FYAGjZgjbqdx8ABLl5CFcjcMD3AoGAF5u6\n5OZmphqWgfzGofQ6jd/hN8231EpWU5iksrhyET32cAoVPilRpcKX6lV2WEN8vkUH\ntgwqw1+R2ZGZbKLtwUNBRJUlUpgfx5xdv8zSxF/wbGkH1ho0UiTw4CXrVFECGTZA\nycF22pBnqA+/M7s6j9zca2dmPiMVLBeJ8P4m/gECgYEAiU5sxmucx6GqbuD+8A+j\nhlhw1cTdzhc792gLWX9KeL7Hq7H6xzdrgeZvR82IwHbHDTpGyRgqVNY84y0xJ9Kt\n7/tOJmaPOdHYT8i46nJXSwl43NbWWP0i0D2fzg1RIuQmifZtEdMDd+U1vDothNnR\nHXypKf/JiNo0TT/8+c9Pn9A=\n-----END PRIVATE KEY-----\n',
-    client_email: 'dialogflow-bovnyr@radi-vvxdfr.iam.gserviceaccount.com',
-    client_id: '112075890565252974328',
+    project_id: 'radi-XXXX',
+    private_key_id: 'XXXX',
+    private_key:'XXXX',
+    client_email: 'dialogflow-XXXX.iam.gserviceaccount.com',
+    client_id: 'XXXX',
     auth_uri: 'https://accounts.google.com/o/oauth2/auth',
     token_uri: 'https://oauth2.googleapis.com/token',
     auth_provider_x509_cert_url: 'https://www.googleapis.com/oauth2/v1/certs',
-    client_x509_cert_url: 'https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-bovnyr%40radi-vvxdfr.iam.gserviceaccount.com'
+    client_x509_cert_url: 'https://www.googleapis.com/robot/v1/metadata/x509/XXXX.iam.gserviceaccount.com'
   };
